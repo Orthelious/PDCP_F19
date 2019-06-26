@@ -29,7 +29,7 @@ This course is intended to expose students studying in creative fields to the ba
 
 Throughout this seminar-style course, students can expect to develop a starting knowledge of basic business concepts; learn a foundational understanding of ethics and best practices in business; develop problem-solving skill sets and methodologies for managing creative projects and programs; and practice applying these learnings to their own creative practices. Topics covered will include, but are not limited to: basic business structures; intellectual property; contracts and employment; methods for generating income and fundraising; financial management and taxes; marketing and communications; negotiation and compromise; and elements of business strategy development. 
 
-# Table of Contents
+## Table of Contents
 
 
 ## Previous Iterations
