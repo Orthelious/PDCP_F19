@@ -12,9 +12,8 @@ Pittsburgh, PA 15213
 
 **Instructor**: _Tom Hughes_  
 *Associate Director*, [Frank-Ratchye STUDIO for Creative Inquiry](http://studioforcreativeinquiry.org/)   
-College of Fine Arts, Room 111  
 *Adjunct Professor of Arts Management*, [CMU School of Art](http://www.art.cmu.edu)
-  
+College of Fine Arts, Room 111  
 
 **Contact**: thughes@cmu.edu  
 **Office Hours**: By appointment — [Click here to schedule an in-person meeting](https://www.cloudhq.net/meeting/thughes@andrew.cmu.edu)  
