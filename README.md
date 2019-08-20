@@ -1,7 +1,6 @@
 # Professional Development for Creative Practices
-##### // Fall 2019
-
-# 60350 Course Syllabus
+**Course Syllabus**  
+*Fall 2019*
   
 Carnegie Mellon Course Number: 60-350    
 Meeting Time: Fridays 1:30pm » 4:20pm  
@@ -20,6 +19,8 @@ College of Fine Arts, Room 111
 **Contact**: thughes@cmu.edu  
 **Office Hours**: By appointment — [Click here to schedule an in-person meeting](https://www.cloudhq.net/meeting/thughes@andrew.cmu.edu)  
 **Pronouns**: He/Him/His  
+
+Please note, all course information is located in the [wiki](https://github.com/Orthelious/PDCP_F19/wiki)
 
 
 
