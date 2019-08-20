@@ -1,5 +1,4 @@
 # Professional Development for Creative Practices
-**Course Syllabus**  
 *Fall 2019*
   
 Carnegie Mellon Course Number: 60-350    
