@@ -20,7 +20,7 @@ College of Fine Arts, Room 111
 **Office Hours**: By appointment — [Click here to schedule an in-person meeting](https://www.cloudhq.net/meeting/thughes@andrew.cmu.edu)  
 **Pronouns**: He/Him/His  
 
-Please note, all course information is located in the [wiki](https://github.com/Orthelious/PDCP_F19/wiki)
+_Please note, all course information is located in the [wiki](https://github.com/Orthelious/PDCP_F19/wiki)_
 
 
 
