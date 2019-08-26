@@ -1,4 +1,4 @@
-# Professional Development for Creative Practices
+# Business Fundamentals for Creative Practices
 *Fall 2019*
   
 Carnegie Mellon Course Number: 60-350    
