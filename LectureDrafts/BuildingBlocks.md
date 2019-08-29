@@ -101,7 +101,7 @@ Wait... the FORCE! I feel a metaphor coming on...
 
 Sole Proprietorships are the default starting point. You engage in some business? Boom! You are automatically a sole proprietorship. You have complete control over your business and the profits, but you also have all of the risks and losses.
 
-Let's take a look at a Sole Proprietor's FORCE:
+*Let's take a look at a Sole Proprietor's FORCE:*  
 
 * **Finances and taxes** — 
 
