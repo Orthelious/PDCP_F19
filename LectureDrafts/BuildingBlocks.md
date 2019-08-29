@@ -5,25 +5,25 @@
 
 # Introduction placeholder
 
-**Chapters**
-1.  [Business Structures and Models](#bsm)
-1.  [Agency and Representation](#ANR)
-1.  [Human Resources, Employment and Labor Law](#hreall)
-1.  Self-Employment and Independent Contracting
+**Chapters**  
+
+1.  [Business Structures and Models](#bsm)  
+1.  [Agency and Representation](#ANR)  
+1.  [Human Resources, Employment and Labor Law](#hreall)  
+1.  Self-Employment and Independent Contracting  
 
 ## <a name="bsm">1. Business Structures and Models</a>
-*Two topics in this lecture:*  
+*Two topics in this chapter:*  
 
-1. [Introduction to business structures and models](#ibsm)
-1. [Common business structures](#cbs)  
+A. [Introduction to business structures and models](#ibsm)  
+B. [Common business structures](#cbs)  
 
-### <a name="ibsm">Introduction to Business Structures and Models</a>
+### <a name="ibsm">A. Introduction to Business Structures and Models</a>
 How do we work together? 
 ![](https://github.com/Orthelious/PDCP_Spring2019/blob/master/images/madmax_interaction.gif)
 ![](https://media.giphy.com/media/Z3v2PCGa0eW9q/giphy.gif)
 
 Understanding exactly *who* you are conducting business with is one of the first steps to empowering yourself in everyday business interactions.
-
 
 To start making sense of things, we need to answer two initial questions:
 
@@ -31,11 +31,11 @@ To start making sense of things, we need to answer two initial questions:
 * What does the business ***do***?
 
 #### — Business Structures
-> What ***kind*** of business are we dealing with?
+What ***kind*** of business are we dealing with?
 
 Understanding how a business is structured helps understand what *kind* of business we are dealing with. 
 
-*What is a business structure?*
+###### // *What is a business structure?*
 
 * The framework and/or legal establishment of an entity for conducting business.
 * A business structure defines what the business is, but not necessarily what the
@@ -46,7 +46,7 @@ can I raise money?” and “What taxes do I owe?”
 “Business Entities,” “Organizational Structures,” “Operating Models,”
 “Business Licenses,“ and ”Business Types.”
 
-*What are some examples from creative practices?*
+###### // *What are some examples from creative practices?*
 
 #### — Business Models
 > What does the business ***do***?
@@ -65,7 +65,7 @@ In its simplest form, a good business model literally tells us what a business's
 
 ***
 
-### <a name="cbs">Common Business Structures</a>  
+### <a name="cbs">B. Common Business Structures</a>  
 
 Time to get down to business! (groan. I'll see myself out). 
 
@@ -77,26 +77,33 @@ Time to get down to business! (groan. I'll see myself out).
 
 ...*but first*
 
-#### // HOW TO DIFFERENTIATE BUSINESS STRUCTURES
+#### — HOW TO DIFFERENTIATE BUSINESS STRUCTURES
 ![](https://github.com/Orthelious/PDCP_Spring2019/blob/master/images/madmax_tellingapart.gif)
 
-All business structures can be identified by at least the following six elements:
+We're going to focus on 5 different factors that every business structure has with **FORCE**. (I wanted a handy anagram, so please keep in mind the following is not in order of importance.)
 
-* **OWNERSHIP** — # of people/owners; Can that ownership be transferred?
+* **[F]inance and taxes** — How can a business raise and/or make money? What is the tax burden for the owner(s)?
+* **[O]wnership** — Who owns this thing? What does ownership come with? 
+* **[C]ontrol** — How are decisions made?
+* **[R]isk** — Who's assets are at risk? Who is personally responsible?
+* **[E]stablishment** — What is the minimum requirement for forming this business structure?
 
-* **FORMATION** — Requirements to officially register the business.
-* **LIABILITY** — Whose assets are at risk?
-* **TAXATION** — “How much $#@&! money do I owe the IRS?”
-* **MANAGEMENT** — Who makes decisions?
-* **FUNDRAISING ABILITY** — Determines the ways you can raise funds (Shares, stock, grants, gifts)
+Wait... the FORCE! I feel a metaphor coming on...
 
-*We're going to use this chart so we don't lose our minds:*
+![Star Wars Intro Card](https://media.giphy.com/media/5wikad3qSOqAg/giphy.gif)
 
-![](https://github.com/Orthelious/PDCP_Spring2019/blob/master/images/BusiStruct_None.png)
 ***
 ### <a name="sole">// 1. SOLE PROPRIETORSHIPS</a>
-![](https://github.com/Orthelious/PDCP_Spring2019/blob/master/images/MadMax_Sole.jpeg)
+![](https://media.giphy.com/media/7MjJvDwdRFbEY/giphy.gif)  
+*Our hero Finn, alone in the desert. Finally free of the grips of the First Order, he can make his own decisions! But on his own, he also has the most risk...*
+
 > A Sole Proprietorship is one individual or married couple in business alone. Sole proprietorships are the most common form of business structure. This type of business is simple to form and operate, and may enjoy greater flexibility of management, fewer legal controls, and fewer taxes. However, the business owner is personally liable for all debts incurred by the business. [[source]](https://bls.dor.wa.gov/ownershipstructures.aspx)
+
+Sole Proprietorships are the default starting point. You engage in some business? Boom! You are automatically a sole proprietorship. You have complete control over your business and the profits, but you also have all of the risks and losses.
+
+Let's take a look at a Sole Proprietor's FORCE:
+
+* **Finances and taxes** — 
 
 
 * OWNERSHIP:
@@ -127,7 +134,7 @@ personal capital. Banks are wary of sole proprietorship because of liability.
 We're going to cover two types of partnerships: ***General*** and ***Limited.***
 
 #### **— GENERAL PARTNERSHIPS**
-![](https://github.com/Orthelious/PDCP_Spring2019/blob/master/images/madmax_partnership.jpg)
+![](https://media.giphy.com/media/56J4bZxxvvOYo/giphy.gif)
 > A General Partnership is composed of 2 or more persons (usually not a married couple) who agree to contribute money, labor, or skill to a business. Each partner shares the profits, losses, and management of the business, and each partner is personally and equally liable for debts of the partnership. Formal terms of the partnership are usually contained in a written partnership agreement. [[source]](https://bls.dor.wa.gov/ownershipstructures.aspx)
 
 * **OWNERSHIP**
@@ -154,7 +161,8 @@ agreement.
 ![](https://github.com/Orthelious/PDCP_Spring2019/blob/master/images/BusiStruct_2.png)
 
 #### **— LIMITED PARTNERSHIPS**
-![](https://github.com/Orthelious/PDCP_Spring2019/blob/master/images/madmax_limited_partnership.jpg)
+![](https://media.giphy.com/media/1v1tIRGqi64pO/giphy.gif)
+![](https://media.giphy.com/media/PQkvzU96V3BTy/giphy.gif)
 > A Limited Partnership is composed of one or more general partners and one or more limited partners. The general partners manage the business and share fully in its profits and losses. Limited partners share in the profits of the business, but their losses are limited to the extent of their investment. Limited partners are usually not involved in the day-to-day operations of the business. [[source]](https://bls.dor.wa.gov/ownershipstructures.aspx)
 
 
@@ -183,7 +191,7 @@ agreement.
 ***
 
 ### <a name="corp">// 3. CORPORATIONS!</a>
-![](https://github.com/Orthelious/PDCP_Spring2019/blob/master/images/MadMax_Incorporation.gif)
+![](https://media.giphy.com/media/2TcafYEBuy1fG/giphy.gif)
 
 Whereas sole proprietorships and partnerships can be formed instantaneously with a simple agreement, we're now crossing into the world of incorporation. The rest of the business structures we're going to cover have very specific filing and formation requirements.  
 
@@ -322,7 +330,7 @@ The business structures covered above are far and away to most common in US busi
 
 For the purposes of this course (and my sanity), we're going to stick to only the most common structures. 
 
-# <a name="ANR">Agency and Representation</a>
+## <a name="ANR">2. Agency and Representation</a>
 *Three sections to this lecture:*
 
 1. [Relationships](#relationships)
