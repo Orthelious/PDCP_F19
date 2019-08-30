@@ -79,8 +79,15 @@ In its simplest form, a good business model tells us what a business's primary p
 * A business model is a design or strategy for how a business should operate.  
  
 * A business model describes what resources are needed, how financing and revenue generation should works, defines what is produced and who the customers are, etc. 
+
+* Here's a cheesy video that succincly explains what a business model is:  
+![](https://github.com/Orthelious/PDCP_Spring2019/blob/master/images/e1_businessidea.png)
+
+	[Getting from Business Idea to Business Model](https://www.youtube.com/channel/UCPVreN9tVxFY2RgWeENShpg)
+
 * Here are some examples of business models in the for-profit sphere:
 	* *[What Is a Business Model? Business Models Explained — Bplans.com](https://articles.bplans.com/what-is-a-business-model-business-models-explained/)*
+
 
 *Let's look at those creative entities again. What do you think their business models are?*
 
@@ -283,11 +290,25 @@ _Oh Han... you may play it like a handsome rogue who doesn't need anyone, but yo
 What is a **Limited Liability Company**?
 > A Limited Liability Company (LLC) is formed by 1 or more individuals or entities through a special written agreement. The agreement details the organization of the LLC, including provisions for management, assignability of interests, and distribution of profits and losses. LLCs are permitted to engage in any lawful, for-profit business or activity other than banking or insurance. [[source]](https://bls.dor.wa.gov/ownershipstructures.aspx)
  
-* **Finances and taxes** 
-* **Ownership**
-* **Risk**
-* **Control**
-* **Establishment**
+**Finances and taxes**  
+- Profits pass to members according to operating agreement.  
+- Profits are taxed once as personal income tax. You'll hear this referred to as [pass-through income](https://investinganswers.com/dictionary/p/pass-through-income).  
+- In addition to loans, personal gifts and personal capital, LLCs can sell percentages of ownership in the company (Please note: this is not the same as stock!). Think of the show Shark Tank—the investors are buying an entire portion of the company that is pitching a product.  
+
+**Ownership**  
+- One or more people can own. Percentages of ownership spelled out at incorporation.  
+- Transfer of ownership to others is possible.  
+
+**Risk**  
+- LIMITED (finally). With an LLC, personal assets are considered ***separate*** from business assets. (i.e. if you get sued, they can't go after your personal assets like your house or car)  
+- LLCs are popular business structures because of the protections and flexibility they offer.  
+
+**Control**  
+- Decisions can be made by owners or by appointed members (employees, agents, etc). 
+- Decision-making and management would be best defined by an [Operating Agreement](https://howtostartanllc.com/what-is-an-llc-operating-agreement).  
+
+**Establishment**
+- You must file Articles of Incorporation with the state government in which your business resides. The rules are different state to state. 
 
 ### <a name="ccorp">// C CORPORATIONS</a>
 ![](https://media.giphy.com/media/2TcafYEBuy1fG/giphy.gif)  
@@ -296,11 +317,28 @@ What is a **Limited Liability Company**?
 What is a **C Corporation**?
 > A corporation, sometimes called a C corp, is a legal entity that's separate from its owners. Corporations can make a profit, be taxed, and can be held legally liable. [[source]](https://www.sba.gov/business-guide/launch-your-business/choose-business-structure)
 
-* **Finances and taxes** 
-* **Ownership**
-* **Risk**
-* **Control**
-* **Establishment**
+**Finances and taxes** 
+- Profits are taxed TWICE. The corporation pays corporate taxes.  Individual owners pay personal income taxes. This is the major drawback of a C Corp.  
+- In addition to loans, startup capital and investments, C Corporations can sell limited ownerships in the company through the issuance of [common stock](https://www.investopedia.com/terms/c/commonstock.asp).  
+
+**Ownership**  
+- One or more people can own. Initial percentages of owner ship spelled out at incorporation.  
+- Transfer of ownership to others is possible.  
+- Additional, limited owners can be added through the selling of [common stock](https://www.investopedia.com/terms/c/commonstock.asp).   
+
+**Risk**  
+- Personal assets are considered separate from business assets.  
+- C Corp’s are popular to investors because of these protections.
+- Risk is the most limited! C Corp's are literally considered seperate entities. This concept is called Corporate Personhood:  
+> Corporate personhood is the legal notion that a corporation,   separately from its associated human beings (like owners, managers, or employees), has at least some of the legal rights and responsibilities enjoyed by natural persons. [[Source]](https://en.wikipedia.org/wiki/Corporate_personhood)  
+
+**Control**  
+- Board members and appointed officers have control of the company. This is spelled out in the Articles of Incorporation and Corporate Bylaws.  
+- Depending on the industry, there are tons of state and federal laws and regulations to follow.  
+
+**Establishment**  
+- You must file Articles of Incorporation with the state government in which your business resides. The rules are different state to state.   
+- Additionally, you must create [Corporate Bylaws](https://www.thebalancesmb.com/what-are-bylaws-for-a-corporation-398148) (rules of the corporation). While not required, it is nearly impossible to run a C Corp without bylaws.  
 
 ### <a name="non">// NON-PROFIT CORPORATIONS</a>
 ![](https://media.giphy.com/media/xUA7bhQIC5pKB3dRVS/giphy.gif)  
@@ -310,11 +348,32 @@ What is a **C Corporation**?
 What is a **Non-Profit Coroporation**
 > Nonprofit corporations are organized to do charity, education, religious, literary, or scientific work. Because their work benefits the public, nonprofits can receive tax-exempt status, meaning they don't pay state or federal taxes income taxes on any profits it makes. [[source]](https://www.sba.gov/business-guide/launch-your-business/choose-business-structure)
 
-* **Finances and taxes** 
-* **Ownership**
-* **Risk**
-* **Control**
-* **Establishment**
+**Finances and taxes**  
+- Because of their charitable mission, non-profits *do not pay income tax.*  
+- Additionally, when someone makes a charitable gift to a non-profit it is considered a **gift**, not an **investment**. Gifts do no grant ownership the way that an investment or stock purchase does.  
+- The are no profits as well! All profits must go back into the organization to pay for programs and salaries, etc.
+
+**Ownership**  
+- Technically not owned in the traditional sense. Non-profits are considered public charities and are intended to have lives beyond their founders.  
+
+This is ***Important to remember.*** When you form a non-profit you are surrending ownership to a corporate entity.   
+
+
+**Risk**  
+- Personal assets are considered separate from business assets.   
+- Very low personal risk! This is why many creative practices from non-profits (though, we will discuss why this is not always teh best strategy).  
+
+**Control**  
+- One or more appointed officers + a board of directors for oversight.  
+- All non-profits have a board. They are responsible for general [governance](https://boardmanagement.com/blog/meaning-board-governance/) of the organization.  
+- There are *a ton* of rules and regulations to follow.  
+
+
+**Establishment**
+- You need a minimum of three board members to form a nonprofit!
+- File Articles of Incorporation + Bylaws with the state government.
+- Plus additional filing with the Internal Revenue Service.
+
 
 *One last time, let's look at our creative entities. Where could a corporate structure work?*
  
@@ -348,7 +407,12 @@ The business structures covered above are far and away to most common in US busi
 
 For the purposes of this course (and my sanity), we're going to stick to only the most common structures. 
 
-## <a name="ANR">2. Agency and Representation</a>
+### B5 — Some Resources
+
+
+***
+
+# <a name="ANR">2. Agency and Representation</a>
 *Three sections to this lecture:*
 
 1. [Relationships](#relationships)
