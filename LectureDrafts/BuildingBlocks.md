@@ -1,101 +1,137 @@
-###### << [Course Homepage](https://github.com/Orthelious/PDCP_F19/wiki) | [Unit Two](https://github.com/Orthelious/PDCP_F19/wiki/Unit-Two-%E2%80%94-Making,-Taking,-Sharing-and-Stealing) >>
+###### << [Course Introduction](https://github.com/Orthelious/PDCP_F19/wiki/Unit-0:-Course-Introduction) | [Unit Two](https://github.com/Orthelious/PDCP_F19/wiki/Unit-Two-%E2%80%94-Making,-Taking,-Sharing-and-Stealing) >>
 
 # Building Blocks
-### _A primer on how to form a business and determining how your business will work with others_
+### _A primer on how to form a business and understanding your business relationships with others_
 
-# Introduction placeholder
+For every business in operation, there are two essential questions that must be answered: who are you and how do you work with others? 
 
-**Chapters**  
+These questions form the basis on which we will build the rest of the course. That's why this unit is titled "Building Blocks." 
+
+We'll start with a primer on basic business structures, from sole proprietorships to corporations—examining the benefits and drawbacks of each—to answer the questions of "Who?". 
+
+Then the focus will shift to agency and employment to help us answer the question "How do we work with others?".
+
+_**Chapters**_  
 
 1.  [Business Structures and Models](#bsm)  
 1.  [Agency and Representation](#ANR)  
 1.  [Human Resources, Employment and Labor Law](#hreall)  
-1.  Self-Employment and Independent Contracting  
+1.  [Self-Employment and Independent Contracting](#self)  
 
-## <a name="bsm">1. Business Structures and Models</a>
+***
+
+# <a name="bsm">1. Business Structures and Models</a>
 *Two topics in this chapter:*  
 
 A. [Introduction to business structures and models](#ibsm)  
 B. [Common business structures](#cbs)  
 
-### <a name="ibsm">A. Introduction to Business Structures and Models</a>
-How do we work together? 
-![](https://github.com/Orthelious/PDCP_Spring2019/blob/master/images/madmax_interaction.gif)
+## <a name="ibsm">A. Introduction to Business Structures and Models</a>
+Understanding exactly *who* you are conducting business with is one of the first steps to empowering yourself in everyday business interactions. 
+
+From collaborators, to customers, to competitors—there are different strategies and methodolgies for success with each. So we need to know *who* we are dealing with.
+
+![](https://media.giphy.com/media/P0pLHx05mdKms/giphy.gif)  
+
 ![](https://media.giphy.com/media/Z3v2PCGa0eW9q/giphy.gif)
 
-Understanding exactly *who* you are conducting business with is one of the first steps to empowering yourself in everyday business interactions.
+
 
 To start making sense of things, we need to answer two initial questions:
 
 * What ***kind*** of business are we dealing with?
 * What does the business ***do***?
 
-#### — Business Structures
-What ***kind*** of business are we dealing with?
+Understanding a business's structure and model can help answer these questions. 
+
+### A1 — Business Structures
 
 Understanding how a business is structured helps understand what *kind* of business we are dealing with. 
 
-###### // *What is a business structure?*
+> *What is a business structure?*
 
-* The framework and/or legal establishment of an entity for conducting business.
-* A business structure defines what the business is, but not necessarily what the
-business does.
-* A business structure answers questions like “Who owns the company?”, “How
-can I raise money?” and “What taxes do I owe?”
+* The framework and/or legal establishment of an entity for conducting business.   
+
+* A business structure defines what the business ***is***, but not necessarily what the business _**does**_.
+* A business structure addresses questions like “Who owns the company?”, “How
+can I raise money?”, "Who is in control?" and “What taxes do I owe?”
 * You will also hear the term business structure used interchangeably with
 “Business Entities,” “Organizational Structures,” “Operating Models,”
-“Business Licenses,“ and ”Business Types.”
+“Business Licenses,“ and ”Business Types.” They all, generally, mean the same thing as a business structure.
 
-###### // *What are some examples from creative practices?*
+*What do you think are the business structures of the following creative entities?*
 
-#### — Business Models
-> What does the business ***do***?
+* A fine art gallery?	
+* A metropolitan museum?	
+* A broadway theater?
+* A 10-person design firm?
+* A music producer?
+* A studio artist?
 
-In its simplest form, a good business model literally tells us what a business's primary purpose and direction is. We're going to cover business models, and business plans, in-depth in *Unit E — Business Planning*. 
 
+### A2 — Business Models
 
-*What is a business model?*
+In its simplest form, a good business model tells us what a business's primary purpose and activites are. We're going to cover business models, and business plans, in-depth in *Unit 7 — Business Models*. 
 
-* A design or strategy for how a business should operate. 
-* A business model describes what resources that are needed, how financing works, who the customers are, the likely sources of revenue, who the customers are, etc. 
+*But briefly...*  
+> *What is a business model?*
+
+* A business model is a design or strategy for how a business should operate.  
+ 
+* A business model describes what resources are needed, how financing and revenue generation should works, defines what is produced and who the customers are, etc. 
 * Here are some examples of business models in the for-profit sphere:
-	* *[What Is a Business Model? Business Models Explained](https://articles.bplans.com/what-is-a-business-model-business-models-explained/)*
+	* *[What Is a Business Model? Business Models Explained — Bplans.com](https://articles.bplans.com/what-is-a-business-model-business-models-explained/)*
 
-*What are some examples from creative practices?*
+*Let's look at those creative entities again. What do you think their business models are?*
+
+* A fine art gallery?	
+* A metropolitan museum?	
+* A broadway theater?
+* A 10-person design firm?
+* A music producer?
+* A studio artist?
+
 
 ***
 
-### <a name="cbs">B. Common Business Structures</a>  
+## <a name="cbs">B. Common Business Structures</a>
 
 Time to get down to business! (groan. I'll see myself out). 
 
-*We're going to cover the following common business structures in this unit:*
+There are literally hundreds of different combinations of business structures. Too many to delve into in this course. So, we're going to just cover the 6 basic structures that are not only the most common—but are also the structures you will most often interact with in creative practices
+
+*We're going to cover the following common business structures in this chapter:*
 
 1. [Sole Proprietorships](#sole)
-2. [Partnerships](#partner)
-3. [Corporations](#corp)
+2. [Partnerships — General and Limited](#partner)
+3. [Corporations — LLC, C Corp, and Non-Profit](#corp)
 
 ...*but first*
 
-#### — HOW TO DIFFERENTIATE BUSINESS STRUCTURES
+### // HOW TO DIFFERENTIATE BETWEEN BUSINESS STRUCTURES
 ![](https://github.com/Orthelious/PDCP_Spring2019/blob/master/images/madmax_tellingapart.gif)
 
-We're going to focus on 5 different factors that every business structure has with **FORCE**. (I wanted a handy anagram, so please keep in mind the following is not in order of importance.)
+We're going to focus on 5 different factors that every business structure has with **FORCE**.  
+*(I wanted a handy anagram, so please keep in mind the following is not in order of importance.)*
 
-* **[F]inance and taxes** — How can a business raise and/or make money? What is the tax burden for the owner(s)?
-* **[O]wnership** — Who owns this thing? What does ownership come with? 
+* **[F]inance and taxes** — What options does a business have to raise and/or make money? What is the tax burden for the owner(s)?
+
+
+* **[O]wnership** — Who owns this thing? What does powers and responsibilities ownership come with? 
 * **[C]ontrol** — How are decisions made?
 * **[R]isk** — Who's assets are at risk? Who is personally responsible?
 * **[E]stablishment** — What is the minimum requirement for forming this business structure?
 
-Wait... the FORCE! I feel a metaphor coming on...
+*Wait... the FORCE! I feel a metaphor coming on...*
 
 ![Star Wars Intro Card](https://media.giphy.com/media/5wikad3qSOqAg/giphy.gif)
 
 ***
-### <a name="sole">// 1. SOLE PROPRIETORSHIPS</a>
+### <a name="sole">B1 — SOLE PROPRIETORSHIPS</a>
 ![](https://media.giphy.com/media/7MjJvDwdRFbEY/giphy.gif)  
-*Our hero Finn, alone in the desert. Finally free of the grips of the First Order, he can make his own decisions! But on his own, he also has the most risk...*
+*We open on our hero Finn, alone in the desert. Finally free of the grips of the First Order, he can make his own decisions! But on his own, he also has the most risk...*
+
+What is a **Sole Proprietorship**?
 
 > A Sole Proprietorship is one individual or married couple in business alone. Sole proprietorships are the most common form of business structure. This type of business is simple to form and operate, and may enjoy greater flexibility of management, fewer legal controls, and fewer taxes. However, the business owner is personally liable for all debts incurred by the business. [[source]](https://bls.dor.wa.gov/ownershipstructures.aspx)
 
@@ -103,213 +139,194 @@ Sole Proprietorships are the default starting point. You engage in some business
 
 *Let's take a look at a Sole Proprietor's FORCE:*  
 
-* **Finances and taxes** — 
+**Finances and taxes**   
+-  Profits are taxed once. It’s all personal income tax.  
+-  Profits belong entirely to the owner. But so do the debts...  
+-  Ability to raise funds is limited to personal capital, personal gifts and loans.   
 
+**Ownership**  
+- Singular owner. You're the boss, buddy.  
+- No legal distinction between business and the owner.  
+- You cannot transfer ownership.  
 
-* OWNERSHIP:
-	* Singular owner.
-	* No legal distinction between business and the owner. 
-	* No ownership transfer.
-* FORMATION: 
-	* No requirements, but there are best practices like having a
-business banking account and sometimes you need industry-specific licenses
-or permits.
-* LIABILITY: 
-	* Unlimited personal liability. 
-	* Business assets and personal assets are the same. 
+**Risk**  
+- Sole Proprietorships carry the largest level of risk. Because there is no seperation between the business and the owner, your business assets and personal assets are the same.   
+- Unlimited Liability. You and you alone are responsible if anything happens.  
 
-* TAXATION: 
-	* Profits are taxed once. It’s all personal income tax.
-* MANAGEMENT: 
-	* You’re your own boss, buddy.
-* FUNDRAISING ABILITY: 
-	* Very limited to none. Pretty much limited to
-personal capital. Banks are wary of sole proprietorship because of liability.
+**Control**  
+- Singular owner. You're the boss, buddy.  
 
-*Let's take a look at our chart*
+**Establishment**  
+- While there are not neccessarily mandatory requirements to start a Sole Proprietorship, there are best practices like having a business banking account and sometimes you will need industry-specific licenses or permits.
 
-![](https://github.com/Orthelious/PDCP_Spring2019/blob/master/images/BusiStruct_1.png)
+*Which of our creative entities do you think could be a Sole Proprietorship?
+ What are some of the advantages? Disadvantages?*
+ 
+* A fine art gallery?	
+* A metropolitan museum?	
+* A broadway theater?
+* A 10-person design firm?
+* A music producer?
+* A studio artist?
+
 ***
-### <a name="partner">// 2. PARTNERSHIPS</a>
-We're going to cover two types of partnerships: ***General*** and ***Limited.***
+### <a name="partner">B2 — PARTNERSHIPS</a>
+Partnerships are just what they sound like: two or more partners. Sharing the burden, sharing the success and sharing the losses. This is the second easiest business structures to form and provides for a great deal of control, but like sole proprietorships comes with  a decent amount of risk. 
 
-#### **— GENERAL PARTNERSHIPS**
-![](https://media.giphy.com/media/56J4bZxxvvOYo/giphy.gif)
+We're going to cover two types of partnerships: ***General Partnerships*** and ***Limited partnerships.***
+
+### // GENERAL PARTNERSHIPS
+![](https://media.giphy.com/media/56J4bZxxvvOYo/giphy.gif)  
+*Oh, look! Our hero Finn has met our other hero Rey! They join forces, making their liklihood of success greater, but also sharing the risk...*
+
+What is a **General Partnership**?
 > A General Partnership is composed of 2 or more persons (usually not a married couple) who agree to contribute money, labor, or skill to a business. Each partner shares the profits, losses, and management of the business, and each partner is personally and equally liable for debts of the partnership. Formal terms of the partnership are usually contained in a written partnership agreement. [[source]](https://bls.dor.wa.gov/ownershipstructures.aspx)
 
-* **OWNERSHIP**
-	* Two or more people
-	* Ownership can transfer to new partners (depends on partnership
-agreement.)
-* **FORMATION** 
-	* No real requirements, but should be created by a partnership
-agreement.
-* **LIABILITY**
-	* Unlimited personal liability for partners.
-	* Partners are liable for each other!
-* **TAXATION**
-	* Profits are evenly distributed to partners.
-	* Taxed once. Taxes pass to individual.
-* **MANAGEMENT**
-	* The partners are in charge.
-	* A partnership agreement would spell this out.
-	* There are some laws governing what a partner can do.
-* **FUNDRAISING ABILITY**
-	* Very limited to none.
-	* Partners contribute personal capital.
+**Finances and taxes**  
+- Profits pass directly to the partners
+- Each partner is responsible for their own personal taxes
+- Like Sole Proprietorships, ability to raise funds is limited to personal capital, personal gifts and loans.
 
-![](https://github.com/Orthelious/PDCP_Spring2019/blob/master/images/BusiStruct_2.png)
+**Ownership**  
+- Requires two or more people  
+- Ownership is automatically a 50/50 split unless spelled out in a partnership agreement. 
+- Ownership could transfer to new partners (depending on the partnership agreement.)  
 
-#### **— LIMITED PARTNERSHIPS**
-![](https://media.giphy.com/media/1v1tIRGqi64pO/giphy.gif)
-![](https://media.giphy.com/media/PQkvzU96V3BTy/giphy.gif)
+**Risk**  
+- Unlimited personal liability for partners.  
+- Partners are liable for **each other's actions**!
+
+**Control**  
+- The partners are in charge.  
+- Control is automatically a 50/50 split unless spelled out in a partnership agreement.  
+- There are laws (vary state to state) that govern what a partner is able to do on behalf of the partnership.
+
+**Establishment**   
+- Like a Sole Proprietorship, there are not neccessarily mandatory requirements to start.  
+- Absolute best practice is to have a written partnership agreement in place! Makes the rules clear!  
+
+
+### // LIMITED PARTNERSHIPS
+![](https://media.giphy.com/media/1v1tIRGqi64pO/giphy.gif)  
+*Wait, who's that little ball droid?*  
+
+![](https://media.giphy.com/media/PQkvzU96V3BTy/giphy.gif)  
+*Why, it's BB-8. It's doing his best to help out, but really it's just following these two because they can fly a ship and get it off-world. Sure, it has something to contribute but really it's a fairly limited partner.*
+
+What is a **Limited Partnership?**
 > A Limited Partnership is composed of one or more general partners and one or more limited partners. The general partners manage the business and share fully in its profits and losses. Limited partners share in the profits of the business, but their losses are limited to the extent of their investment. Limited partners are usually not involved in the day-to-day operations of the business. [[source]](https://bls.dor.wa.gov/ownershipstructures.aspx)
 
+**Finances and taxes**  
+- Profits are distributed to partners according to a partnership agreement.  
+- Taxed once. Taxes pass to individual.  
+- General Partners pay self-employment tax (more on this in the Agency and Employment chapters) 
 
-* **OWNERSHIP**
-	* Two or more people.
-	* There are General Partners (Major) and Limited Partners (Minor).
-	* Ownership and transfers are defined by partnership agreement.
-* **FORMATION**
-	* Created by a partnership agreement.
-* **LIABILITY**
-	* Unlimited personal liability for the General Partners.
-	* Limited liability for the limited partners.
-* **TAXATION**
-	* Profits are distributed to partners according to partnership agreement.
-	* Taxed once. Taxes pass to individual.
-	* General Partners pay self-employment tax.
-* **MANAGEMENT**
-	* Often the General Partners are in charge, but Limited Partners have a say.
-	* A partnership agreement would spell this out.
-	* There are some laws governing what a partner can do.
-* **FUNDRAISING ABILITY**
-	* Very limited to none.
-	* Partners contribute personal capital.
+**Ownership**  
+- Requires two or more people.  
+- There are two types of partners: General Partners (Major) and Limited Partners (Minor).  
+- Ownership and transfers are defined by partnership agreement(s).  
 
-![](https://github.com/Orthelious/PDCP_Spring2019/blob/master/images/BusiStruct_3.png)
+**Risk**  
+- Unlimited personal liability for the General Partners.  
+- **Limited** **liability** for the limited partners. Limited partners may have a limited say in what the business does, but they likewise have limited risk.
+
+**Control**  
+- Most often the General Partners are in charge, but Limited Partners do have some say in business operations. A partnership agreement would spell this out.  
+- There are laws (vary state to state) governing what a General and/or Limited partner can do.  
+
+**Establishment**  
+- Adding a limited partnership has to be done through a written partnership agreement to outline who is a General Partner and who is a Limited Partner.
+
+*Which of our creative entities do you think could work as a partnership?
+ Whould they have just general partners? Limited partners?*
+ 
+* A fine art gallery?	
+* A metropolitan museum?	
+* A broadway theater?
+* A 10-person design firm?
+* A music producer?
+* A studio artist?
+
+
 ***
 
-### <a name="corp">// 3. CORPORATIONS!</a>
+### <a name="corp">B3 — CORPORATIONS</a>
+*Cue ominious music...*  
 ![](https://media.giphy.com/media/2TcafYEBuy1fG/giphy.gif)
 
 Whereas sole proprietorships and partnerships can be formed instantaneously with a simple agreement, we're now crossing into the world of incorporation. The rest of the business structures we're going to cover have very specific filing and formation requirements.  
 
+What is a **Corporation**?
 > A Corporation is a more complex business structure. A corporation has certain rights, privileges, and liabilities beyond those of an individual. Doing business as a corporation may yield tax or financial benefits, but these can be offset by other considerations, such as increased licensing fees or decreased personal control. Corporations may be formed for profit or nonprofit purposes. [[source]](https://bls.dor.wa.gov/ownershipstructures.aspx)
 
+To incorporate is to create a ***seperate entity*** that could exist ***independent of the people who originally founded it.*** (For example: What happened to KFC after Colonel Sanders died?) 
 
-We're going to cover the following types of corporate structures:
+It's all about creating a layer of **seperation** and **protection**.
 
-* Limited Liability Corporations
-* C Corporations
-* S Corporations
-* Non-Profit Organizations 
+Incorporation is a legal process that must be done through the government. Unlike a Sole Proprietorship or Partnership, you cannot create an incorporation on your own. [**Articles of Incorporation**](https://www.investopedia.com/terms/a/articlesofincorporation.asp) must be filed. 
 
-#### **— LLC (LIMITED LIABILITY COMPANY)**
+We're going to cover the following types of corporate business structures:
+
+* [Limited Liability Company](#llc)
+* [C Corporations](#ccorp)
+* [Non-Profit Organizations](#non) 
+
+### <a name="llc"> // LLC (LIMITED LIABILITY COMPANY)</a>
+![](https://media.giphy.com/media/TRiqtPmSKUdmo/giphy.gif)
+![](https://media.giphy.com/media/3aCOYRUv8Jr3y/giphy.gif)
+![](https://media.giphy.com/media/ZpVid63o3L81G/giphy.gif)
+![](https://media.giphy.com/media/3owzVYk3A2E572jRSM/giphy.gif)
+![](https://media.giphy.com/media/nureODsTmSli0/giphy.gif)
+
+_Oh Han... you may play it like a handsome rogue who doesn't need anyone, but you're constantly adding people your crew! The crew of the **Millenium Falcon** is more than just its captain. Together they can share in burden, the risk, the adventure! It could be a crew of one or a crew of many!_
+
+What is a **Limited Liability Company**?
 > A Limited Liability Company (LLC) is formed by 1 or more individuals or entities through a special written agreement. The agreement details the organization of the LLC, including provisions for management, assignability of interests, and distribution of profits and losses. LLCs are permitted to engage in any lawful, for-profit business or activity other than banking or insurance. [[source]](https://bls.dor.wa.gov/ownershipstructures.aspx)
+ 
+* **Finances and taxes** 
+* **Ownership**
+* **Risk**
+* **Control**
+* **Establishment**
 
+### <a name="ccorp">// C CORPORATIONS</a>
+![](https://media.giphy.com/media/2TcafYEBuy1fG/giphy.gif)  
+*Ok, this one should be obvious.*
 
-* **OWNERSHIP**
-	* One or more people.
-	* Transfer of ownership possible.
-	* Combines elements of Corporations and Sole Proprietorships/Partnerships.
-* **FORMATION**
-	* File Articles of Incorporation with the state government.
-* **LIABILITY**
-	* LIMITED!!
-	* Personal assets are considered separate from business assets.
-	* LLC’s are popular because of the protections and flexibility they offer.
-* **TAXATION**
-	* Taxed once. Taxes pass to individual.
-	* Individuals pay self-employment tax if employed.
-	* Whole bunch of other tax options available.
-* **MANAGEMENT**
-	* Members or appointed officers (It’s flexible.)
-	* Defined by an Operating Agreements (Best practice.)
-* **FUNDRAISING ABILITY**
-	* Can sell interest (ownership) in the company.  
-
-![](https://github.com/Orthelious/PDCP_Spring2019/blob/master/images/BusiStruct_4.png)
-
-#### **— C CORPORATIONS**
+What is a **C Corporation**?
 > A corporation, sometimes called a C corp, is a legal entity that's separate from its owners. Corporations can make a profit, be taxed, and can be held legally liable. [[source]](https://www.sba.gov/business-guide/launch-your-business/choose-business-structure)
 
-* **OWNERSHIP**
-	* One or more people.
-	* Transfer of ownership possible.
-* **FORMATION**
-	* File Articles of Incorporation + Bylaws with the state government.
-* **LIABILITY**
-	* The most limited.
-	* Personal assets are considered separate from business assets.
-	* C Corp’s are popular to investors because of these protections.
-* **TAXATION**
-	* Taxed TWICE.
-	* The corporation pays corporate taxes.
-	* Individuals pay income taxes.
-* **MANAGEMENT**
-	* Board members and appointed officers.
-	* Tons of laws and regulations to follow.
-* **FUNDRAISING ABILITY**
-	* Can sell stock in the company.
-	* Considered the most attractive for investors.
+* **Finances and taxes** 
+* **Ownership**
+* **Risk**
+* **Control**
+* **Establishment**
 
-![](https://github.com/Orthelious/PDCP_Spring2019/blob/master/images/BusiStruct_5.png)
+### <a name="non">// NON-PROFIT CORPORATIONS</a>
+![](https://media.giphy.com/media/xUA7bhQIC5pKB3dRVS/giphy.gif)  
+![](https://media.giphy.com/media/mRxzbdhbv9nj2/giphy.gif)  
+*It's the Resistance! Those scrappy do-gooders. They're not in it for the money, they are driven by a mission for good.*
 
-#### **— S CORPORATIONS**
-> An S corporation, sometimes called an S corp, is a special type of corporation that's designed to avoid the double taxation drawback of regular C corps. S corps allow profits, and some losses, to be passed through directly to owners' personal income without ever being subject to corporate tax rates. [[source]](https://www.sba.gov/business-guide/launch-your-business/choose-business-structure)
-
-* **OWNERSHIP**
-	* One or more people. But limited to 100 shareholders.
-	* Transfer of ownership possible.
-* **FORMATION**
-	* File Articles of Incorporation + Bylaws with the state government.
-	* Essentially the same as a C Corp with some exceptions.
-	* Plus additional filing for Article S with the IRS.
-* **LIABILITY**
-	* The most limited.
-	* Personal assets are considered separate from business assets.
-	* S Corp’s are popular to investors because of these protections.
-* **TAXATION**
-	* Taxed once. Taxes pass to individual.
-		* (This is the entire point of an S Corp)
-	* Individuals pay income taxes.
-* **MANAGEMENT**
-	* Board members and appointed officers.
-	* Tons of laws and regulations to follow.
-* **FUNDRAISING ABILITY**
-	* Can sell stock in the company, but limited to 100 shareholders.
-
-![](https://github.com/Orthelious/PDCP_Spring2019/blob/master/images/BusiStruct_6.png)
-
-#### **— NON-PROFIT CORPORATIONS — 501(C)3**
+What is a **Non-Profit Coroporation**
 > Nonprofit corporations are organized to do charity, education, religious, literary, or scientific work. Because their work benefits the public, nonprofits can receive tax-exempt status, meaning they don't pay state or federal taxes income taxes on any profits it makes. [[source]](https://www.sba.gov/business-guide/launch-your-business/choose-business-structure)
 
-* **OWNERSHIP**
-	* One or more people + a board of directors.
-	* Technically not owned in the traditional sense. Non-profits are considered public charities
-and are intended to have lives beyond their founders.
-* **FORMATION**
-	* File Articles of Incorporation + Bylaws with the state government.
-	* Plus additional filing with the IRS. This is where the 501(c)3 comes from.
-	* You need a minimum of three board members!
-* **LIABILITY**
-	* The most limited.
-	* Personal assets are considered separate from business assets.
-* **TAXATION**
-	* No profits! — All profits must go back into the organization to pay for programs and salaries, etc.
-	* Organizational income is not taxed.
-	* Individuals can be employees and receive a salary, but not receive profits.
-* **MANAGEMENT**
-	* Board members and appointed officers.
-	* Tons of laws and regulations to follow.
-* **FUNDRAISING ABILITY**
-	* Able to accept tax-free donations!
-	* You can apply for foundation grants!
+* **Finances and taxes** 
+* **Ownership**
+* **Risk**
+* **Control**
+* **Establishment**
 
-![](https://github.com/Orthelious/PDCP_Spring2019/blob/master/images/BusiStruct_7.png)
+*One last time, let's look at our creative entities. Where could a corporate structure work?*
+ 
+* A fine art gallery?	
+* A metropolitan museum?	
+* A broadway theater?
+* A 10-person design firm?
+* A music producer?
+* A studio artist?
 
-#### — BONUS STRUCTURES
+
+### B4 — BONUS STRUCTURES
 The business structures covered above are far and away to most common in US business, but there are many more structures available (though not all are recognized in all 50 states).
 
 *Here are just a few:*
@@ -326,6 +343,7 @@ The business structures covered above are far and away to most common in US busi
 * [Limited Liability Limited Partnership](http://www.businessdictionary.com/definition/limited-liability-limited-partnership-LLLP.html)
 * [Low-profit Limited Liability Company](https://en.wikipedia.org/wiki/Low-profit_limited_liability_company)
 * [Trust](http://www.businessdictionary.com/definition/trust.html)
+* [S Corporations ](http://www.businessdictionary.com/definition/S-corporation.html)
 * [Syndicate](http://www.businessdictionary.com/definition/syndicate.html)
 
 For the purposes of this course (and my sanity), we're going to stick to only the most common structures. 
@@ -701,3 +719,55 @@ This falls under the category of organizing and collective bargaining protected 
 
 So, in most cases, an employer cannot create a company policy prohibiting employees from discussing pay. Importantly, this also applies to discussing **working conditions**—here's an example from the NLRB website: [Protected Concerted Activity. 
 ](https://www.nlrb.gov/rights-we-protect/enforcement-activity/protected-concerted-activity)
+
+# <a name="self">4. Self-Employment and Independent Contracting</a>
+
+This is a brief topic. The goal here is to draw a distinction between a traditional employee and an independent contractor. 
+
+Not understanding this distinction can be one of the primary ways creative practitioners are taken advantage of. 
+
+## EMPLOYEE VS. INDEPENDENT CONTRACTOR
+
+### // Let's first define the two:
+
+**EMPLOYEE** — A person hired to perform duties on an ongoing basis for a entity, whose work conditions and methods are strictly controlled by the principal.
+
+*As we’ve discussed in A.2, the employer/employee relationship is a type of agency relationship.*
+
+* The employee (agent) is controlled totally by the employer (principal)
+* This relationship is additionally governed by labor and employment law.
+
+**INDEPENDENT CONTRACTOR**— A person hired to perform limited, specific duties for a party according to a contract, for a specific period of time. Their work conditions and methods are not strictly controlled by the principal, but by the terms of the contract.
+
+An independent contractor is not (automatically) an agent in their relationship to the principal. 
+
+* The key here is “independent”
+* This relationship is governed by the contract between the two parties and standards of contract law.
+
+### // How Do You Tell the Difference?
+It's not just whether or not a principal *calls* you an employee or an independent contractor. The relationship has to be defined and follow a set of standards set out in US law. 
+
+The IRS gives us at least these three top-level tests to determined whether someone is an employee or an independent contractor:
+
+
+1. **Behavioral**: Does the company control or have the right to control what the worker does and how the worker does his or her job?
+	* If the principal is supplying the office, the equipment, sets your hours, etc — you are most likely an employee. 
+	* If you operate independently of the principal and determine for yourself how the job will get completed—you are likely a contractor. 
+	
+	
+2.  **Financial**: Are the business aspects of the worker’s job controlled by the payer? (these include things like how worker is paid, whether expenses are reimbursed, who provides tools/supplies, etc.)
+
+	* How, when and in what manner you are paid for a job is a major determining factor. We're going to cover this in a greater level of detail in Unit E.
+
+3. **Type of Relationship**: Are there written contracts or employee type benefits (i.e. pension plan, insurance, vacation pay, etc.)? 
+	* If you are receiving employee-type benefits, you are likely an employee. 
+	* If you do not receive *employee-type benefits*, you are likely an contractor. 
+	* Additionally, the contract between you and the principal should expressly state as much. We will cover more of this in Unit C. 
+
+	Will the relationship continue
+and is the work performed a key aspect of the business?
+	
+	* If yes, then you are likely an **employee**
+	* If no and the relationship or key aspect of business has a *set end date* — you are a **contractor**.
+
+
