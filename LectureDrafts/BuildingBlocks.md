@@ -11,7 +11,7 @@ We'll start with a primer on basic business structures, from sole proprietorship
 
 Then the focus will shift to agency and employment to help us answer the question "How do we work with others?".
 
-_**Chapters**_  
+<a name="table">**Chapters**</a>
 
 1.  [Business Structures and Models](#bsm)  
 1.  [Agency and Representation](#ANR)  
@@ -113,9 +113,11 @@ There are literally hundreds of different combinations of business structures. T
 2. [Partnerships — General and Limited](#partner)
 3. [Corporations — LLC, C Corp, and Non-Profit](#corp)
 
+Additionally, at the end of the chapter I've included some information on less common business types and some additional resources. 
+
 ...*but first*
 
-### // HOW TO DIFFERENTIATE BETWEEN BUSINESS STRUCTURES
+### // HOW TO TELL BUSINESS STRUCTURES APART
 ![](https://github.com/Orthelious/PDCP_Spring2019/blob/master/images/madmax_tellingapart.gif)
 
 We're going to focus on 5 different factors that every business structure has with **FORCE**.  
@@ -124,7 +126,7 @@ We're going to focus on 5 different factors that every business structure has wi
 * **[F]inance and taxes** — What options does a business have to raise and/or make money? What is the tax burden for the owner(s)?
 
 
-* **[O]wnership** — Who owns this thing? What does powers and responsibilities ownership come with? 
+* **[O]wnership** — Who owns this thing? What powers and responsibilities does ownership come with? 
 * **[C]ontrol** — How are decisions made?
 * **[R]isk** — Who's assets are at risk? Who is personally responsible?
 * **[E]stablishment** — What is the minimum requirement for forming this business structure?
@@ -149,7 +151,8 @@ Sole Proprietorships are the default starting point. You engage in some business
 **Finances and taxes**   
 -  Profits are taxed once. It’s all personal income tax.  
 -  Profits belong entirely to the owner. But so do the debts...  
--  Ability to raise funds is limited to personal capital, personal gifts and loans.   
+-  Ability to raise funds is limited to personal capital, personal gifts and loans.
+-  Can you sell part of your business? No. Legally, a Sole Proprietorship can only have one owner. If you want additional owners, you must incorporate.    
 
 **Ownership**  
 - Singular owner. You're the boss, buddy.  
@@ -375,7 +378,7 @@ This is ***Important to remember.*** When you form a non-profit you are surrendi
 - Plus additional filing with the Internal Revenue Service.
 
 
-*One last time, let's look at our creative entities. Where could a corporate structure work?*
+*One last time, let's look at our creative entities. Where could a nonprofit corporate structure work?*
  
 * A fine art gallery?	
 * A metropolitan museum?	
@@ -386,7 +389,7 @@ This is ***Important to remember.*** When you form a non-profit you are surrendi
 
 
 ### B4 — BONUS STRUCTURES
-The business structures covered above are far and away to most common in US business, but there are many more structures available (though not all are recognized in all 50 states).
+The business structures covered above are far and away the most common in US business, but there are many more structures available (though not all are recognized in all 50 states).
 
 *Here are just a few:*
 
@@ -407,33 +410,54 @@ The business structures covered above are far and away to most common in US busi
 
 For the purposes of this course (and my sanity), we're going to stick to only the most common structures. 
 
-### B5 — Some Resources
+### B5 — SOME RESOURCES
+Here are some sites that I have found easy to comprehend and that further define the concepts from this unit. 
 
+* ["What is a Business Model? Business Models Explained" - Bplans.com](https://articles.bplans.com/what-is-a-business-model-business-models-explained/)
+* ["Choose a Business Structure" — The U.S. Small Business Administration](https://www.sba.gov/business-guide/launch-your-business/choose-business-structure)
+* ["Choose Your Business Structure" — Entrepreneur.com](https://www.entrepreneur.com/article/38822)
+* ["Business Structures" - The U.S. Internal Revenue Service](https://www.irs.gov/businesses/small-businesses-self-employed/business-structures)
+* ["Small Business" — USA.gov](https://www.usa.gov/business)
+* ["Starting a Business Basics" - Getting Your Sh*t Together](https://www.gyst-ink.com/starting-a-business-basics)
+* ["How to Start a Nonprofit" — National Council of Nonprofits](https://www.councilofnonprofits.org/tools-resources/how-start-nonprofit?gclid=CjwKCAjw-7LrBRB6EiwAhh1yX-LFSEHMYUwLhVHRpK2wF1HvlB4BtF2deFkFurceYOkba4jRQJfpGBoCdfYQAvD_BwE)
+* ["How to Start an LLC" — howtostartanllc.org](https://www.howtostartanllc.org/) *Note: This site has guidance on how to form an LLC for each state (They're all different!)*
+* ["When to Set Up a Corporation or Other Business Entity" — Arts Tax Info](http://www.artstaxinfo.com/setup.shtml)
+* ["Sweat The Business Stuff: What Type Of Business Are You Running Anyway?" — The Legal Artist](http://www.thelegalartist.com/blog/sweat-the-business-stuff-what-type-of-business-are-you-running-anyway)
 
 ***
 
 # <a name="ANR">2. Agency and Representation</a>
-*Three sections to this lecture:*
 
-1. [Relationships](#relationships)
-2. [Defining Agency](#agency)
-3. [The Essential Four Components](#four)
+[~ Back to Table of Contents ~](#table)
+
+This is the first of our chapters to focus on *relationships.* How do we define our relationship to other people when conducting business? Many of these answers can be found in the legal concept of Agency. 
+
+>"The definition of agency law deals with agent-principal relationship and it's a relationship where one party has the legal authority to act in place of another." [[Source: upcounsel.com]](https://www.upcounsel.com/definition-of-agency-law)
+
+*Some key questions Agency helps us answer:*
+
+* Do they represent us? To what extent?
+* Are they our employee? An independent contractor?
+* Do I represent them? To what extent?
+* Am I an employee or an independent contractor?
+* How does our relationship affect our power and control over one another?
+* What laws do I have to follow? Do they?
+* How do we start a relationship? How do we end one?
 
 
-*In general, agency and labor boil down to one thing:* 
-## <a name=relationships>Relationships</a>
+*Three sections to this chapter:*
 
-When we talk about agency and labor in this course, we're generally covering the set of rules, guidelines and laws that define the relationship between parties in business. 
+A. [Relationships](#relationships)  
+B. [Defining Agency](#agency)  
+C. [The Essential Four Components](#four)  
 
-It helps us answer the question, "who works for whom?"
 
+## <a name=relationships>A. Relationships</a>
 
-As an introduction to this topic, we're going to start things off with  these three primary types of relationships: 
+As an introduction to this topic, we're going to start things off with  these three primary types of agency relationships: 
 
 1. **PRINCIPAL AND AGENT**  
 	A party who conducts business on behalf of and in the interest of a principal.
-	
-	*Examples: Lawyers, insurance agents, gallerists*
 	
 2. **EMPLOYER AND EMPLOYEE**	
 	An agent who works for a principal **AND** whose methods and working
@@ -441,8 +465,6 @@ conditions are controlled by the principal.
 
 3. **PRINCIPAL AND INDEPENDENT CONTRACTOR**  
 	A party who is **contracted** to do work for a principal, but whose methods and working conditions **are not** controlled by the principal. 
-
-	*Examples: A freelance designer, a general contractor in construction*
 
 This relationships can appear to be straightforward when you're talking about only two or three parties conducting a single piece of business—but few projects are limited to just a few parties. 
 
@@ -454,125 +476,127 @@ For each of these examples, try to guess how many parties are involved and what 
 2. [*TransMilenio*](https://www.youtube.com/watch?v=cU6ImWY4IBc)
 3. [*The Mexico '68 Olympics · Ramirez Vazquez*](https://www.youtube.com/watch?v=iWyYGo5-Kho)
 4. [*Politicized Landscapes · Julie Mehretu*](https://www.youtube.com/watch?v=xcM3lF4Es_s)
-5. [A Subtlety · Kara Walker](https://www.youtube.com/watch?v=W2sedoeOiB8)
-7. [Fyre Festival · Billy McFarland & Ja Rule](https://www.youtube.com/watch?v=uZ0KNVU2fV0)
-8. [*Space Program · Tom Sachs* ](https://www.youtube.com/watch?v=fdXEe7VIfZk)
+5. [*A Subtlety* · Kara Walker](https://www.youtube.com/watch?v=W2sedoeOiB8)
+7. [*Fyre Festival* · Billy McFarland & Ja Rule](https://www.youtube.com/watch?v=uZ0KNVU2fV0)
+8. [*Space Program* · Tom Sachs* ](https://www.youtube.com/watch?v=fdXEe7VIfZk)
 
 
-## <a name="agency">// Defining Agency</a>
+## <a name="agency">B. Defining Agency</a>
 
 The relationships in the prior examples all represent contain some form of an agency relationship. 
 
-###### *— What is agency?*
+### A1 — What is agency?
 
 **AGENCY** — A consensual relationship created by contract or by law where one party, the **principal**, grants authority for another party, the **agent**, to act on behalf of and under the control of the principal to deal with a **third party**.
 
 An agency relationship is **fiduciary** in nature, and the actions and words of an agent exchanged with a third party *bind the principal*.  
 
-###### *— Why is agency important?*
+#### *// Why is Agency Important?*
 
-* **Reach** — You can be in two places at once.
+2. **Augemntation** — You can augment your creative practice utilizing the skills and knowledge of someone who does. 
+3. **Representation** — You can enable someone who can carry out your wishes and who has has your best interests in mind.
+4. **Employment** — Understanding agency is an essential aspect of being an employee and/or employer and knowing whether someone is an employee or an independant contractor.
 
-* **Augmentation** — You can augment your creative practice utilizing skills and knowledge you don’t personally possess.
- 
-* **Representation** — You can enable someone who can carry out your wishes and who has has your best interests in mind.
- 
-* **Employment** — Understanding agency is an essential aspect of being an employee and/or employer.
-
-#### **// Some Helpful Definitions**
-* **PRINCIPAL** — The party who authorizes another (an agent) to act on their behalf. A principal could be an individual or a group.
-
-* **AGENT** — The party who is authorized to act on another’s (the principal) behalf. An agent can also be an individual or a group.
-
-* **THIRD PARTY** — Any person or party outside of the two primary parties (principal and agent).
-
+### A2 — Some Helpful Definitions
 * **FIDUCIARY** — A legal and/or ethical relationship of trust. A person in a fiduciary relationship is obligated to act in the best interest of another.
-
+* **PRINCIPAL** — The party who authorizes another (an agent) to act on their behalf. A principal could be an individual or a group.
+* **AGENT** — The party who is authorized to act on another’s (the principal) behalf. An agent can also be an individual or a group.
+* **THIRD PARTY** — Any person or party outside of the two primary parties (principal and agent).
 * **EMPLOYEE** — A person (agent) hired to perform duties on an ongoing basis for a principal (employer), whose work conditions and methods are strictly controlled by the principal.
-
 * **INDEPENDENT CONTRACTOR** — A person hired to perform limited, specific duties for a party according to a contract, for a specific period of time. The independent contractor's work conditions and methods are not strictly controlled by the principal.
 
-#### // The Common Types of Agency
+### A3 — The Common Types of Agency
 
-* **General** — Authorized to conduct every kind of business for the Principal.
+1. **GENERAL AGENT** — Authorized to conduct every kind of business for the Principal. 
+	
+	![](https://media.giphy.com/media/ewkjQf8NEgzFC/giphy.gif)
+	![](https://media.giphy.com/media/2PtmpDqRPs2pW/giphy.gif)
+	![](https://media.giphy.com/media/yJ1KSiTxaAw5G/giphy.gif)
+	
+	As we discussed in the Business Structures chapter, the Sole Proprietor is the default starting point. Much in the same way, a General Agent is the starting point for Agency relationships. Unless you further define the relationship with your agent, they are going to be a General Agent and empowered to conduct every kind of business for the Principal.  
 
-* **Special** — Authorized to conduct only specific business activities as outlined in a contract.
-* **Agent with interest** — The agent possesses interest (owns or controls) some aspects of the Principal’s business.
-* **Subagent** — An secondary agent who is agent to both the primary agent and principal.
-* **Employee/Employer** — An agent who works for a principal, whose methods and working conditions are controlled by the principal.
+2. **SPECIAL AGENT** — Authorized to conduct only specific business activities as outlined in a contract.
+	There are rare cases where you want an agent to conduct EVERY kind of your business. Agents are usually limited for a specific purpose. For example: A real estate agent helps you buy/sell a house, a lawyer represents you in legal affairs, an insurance agent for insurance claims. 
+	
+	These relationships are all spelled out in an ***agreement!*** 
+	
+	![](http://pa1.narvii.com/6675/d2ceb5d5edc28bc44bb5a24b54148a8357bf71f5_00.gif)
 
-*What are some examples we can think of in creative practices?*
+	What kind of business would the following agents in creative practices conduct on your behalf?
+	
+	* A talent agent?
+	* A gallery agent?
+	* A record company representative?
+	* A tour manager?
+	* A studio manager?
+	* A sales broker?
 
-## <a name="four">// The Essential Four Components</a>
+1. **AGENT WITH INTEREST** — The agent possesses interest (owns or controls) some aspects of the Principal’s business.  
+
+	This is an agent with some skin in the game. They will benefit personally from acting as an agent for your business. For example: if your gallerist receives a 10% commission on each sale, they are more incentivized to make that sale for a greater value. 
+
+	![](https://media.giphy.com/media/9VgjNuWqdC7QmLtLcX/giphy.gif)
+
+	What's a way that an Agent with Interest could be negative?
+
+1. **SUBAGENT** — An secondary agent who is represents to both the primary agent and principal.
+	
+	Batman empowers Robin to aid him in his fight against crime. If Alfred, the Butler, is commanded by Robin to aid them in their fight against crime, Alfred is acting as a subagent. He is both an agent for the Principal (Batman) and the Agent (Robin), but because he is taking commands from Robin, he is acting as a Subagent.
+
+	![](https://youngentertainmentmag.com/wp-content/uploads/2015/09/batman_a.jpg)
+
+* **EMPLOYEE/EMPLOYER** — An agent who works for a principal, whose methods and working conditions are controlled by the principal.
+
+	If you've had a job in high school or college, this is most likely the relationship you are most familiar with. As an employee, you have to do your job according to the exact conditions layed out by the Principal (your boss). 
+	![](https://media.giphy.com/media/3ogwFHRU4y53L0mKU8/giphy.gif)
+
+	*Isn't that like every job?* Not neccessrily. The type and degree of control are one of the primary factors in determing if you're an employee or an independent contractor (more on this later).
+
+
+## <a name="four">C. The Four Essential Components of Agency Relationships</a>
 The are four essential components that help us determine what type and to what extent an agency relationships exists:
 
-1. **FORMATION**
-2. **CONTROL**
-3. **AUTHORITY**
-4. **LIABILITY**
+### C1 — **FORMATION** · **CONTROL** · **AUTHORITY** · **LIABILITY**
 
-### **// FORMATION**
-*How are agency relationships started?*
+1. **FORMATION**  
+*How are agency relationships started?*  
+	There are four primary, somewhat wonky, ways to form an agency relationship:
+	* By **Agreement**: Both parties agree to a relationship by verbal or written agreement.
+	
+	* By **Ratification**: A third part sets up the relationship, and the agent and the principal agree. Think of this like matchmaking.
+	
+	* By **Operation of Law**: Agencies that are recognized by courts in the absence of a formal agreement. Think of family relationships—in an emergency, your parents or guardians would act as your agents. 
 
-##### — BY AGREEMENT*
+	* By **Estoppel**: A second party gives a third party *the impression* that they work for the Principal. For example, the 2nd party gives the 3rd party a letter on your letterhead, even though the 2nd party is not your agent. The 3rd party can reasonably assume an agent relationship exists.  
+		
+	
+2. **CONTROL**  
+*What level of control does the Principal have over the Agent?*  
+	This component is about to what extant does a Principal exercise control over an agent.
 
-* By express agreement
-* Both parties agree to a relationship by verbal or written agreement.
-* By implied agreement
-* Conduct of both parties expresses an intent to create an agency
-relationship
-
-*We will cover agreements in greater details in Unit C
-
-##### — BY RATIFICATION
-* A third part sets up the relationship, and the agent and the principal agree.
-* Think of this like matchmaking.
-
-##### — BY ESTOPPEL
-
-* A principal's response to a second party's action leads a third party to believe that an agency relationship exists.
-	* i.e. If you let someone act for you and go along with it, they can be considered your legal agent.
-	* Be careful what you ask someone to do for you.
- 
-##### — BY OPERATION OF LAW
-* Agencies recognized by courts in the absence of a formal agreement.
-	* i.e. family relationships, emergency situations
-
-### **// CONTROL**
-What level of control does the Principal have over the Agent?
-
-* What is the scope of work or job duties?
-* How much direction and control does the principal exercise over the
+	* What is the scope of work or job duties for the agent?
+	* How much direction and control does the principal exercise over the
 agent’s work?
-* Can the principal determine the agent’s working conditions?
-* Is the relationship exclusive?
+	* Can the principal determine the agent’s working conditions?
+	* Is the relationship exclusive?
 
-### **// AUTHORITY**
+3. **AUTHORITY**  
+*What is the agent empowered to do?*  
+i.e. How much authority can an agent operate with on the Principal's behalf?
 
-What is the agent empowered to do?
-
-*Two types:*
-
-* **Actual Authority** — The principal assigns express or implied powers to 
+	*Two types:*
+	* **Actual Authority** — The principal assigns express or implied powers to 
 the agent.
+	* **Apparent Authority** — The principal, knowingly or mistakenly, permits to agent to act with authority they were never expressly granted. (This is where agency by estoppel comes in.)
 
-* **Apparent Authority** — The principal, knowingly or mistakenly, permits to agent to act with authority they were never expressly granted.
-	* This is where agency by estoppel comes in.
-	* Essentially, you have to be very clear with your agent on what they can and
-cannot do!
+4. **LIABILITY**
+*Can you be held responsible for an agent's actions?*
+	* Certan agents are able to enter into legally binding agreements on your behalf.
+	* You could also be held liable for an agent's conduct.
 
-### **// LIABILITY**
-You could be held responsible for your agent's actions!
+### C2 — Let's take a look back at our examples from earlier in this chapter. 
 
-* Certan agents are able to enter into legally binding agreements on your behalf.
-* You could be held liable for an agent's conduct.
-* AHHHHHH!
-
-***
-
-### — Let's take a look back at our examples from earlier in this lecture. 
-
-### How would you now define the various agency relationships?
+*How would you now define the various agency relationships?*
 
 1. [*Mimus · ATONATON*](https://www.youtube.com/watch?v=B9jwNWiEd_M)
 2. [*TransMilenio*](https://www.youtube.com/watch?v=cU6ImWY4IBc)
@@ -583,16 +607,16 @@ You could be held responsible for your agent's actions!
 8. [*Space Program · Tom Sachs* ](https://www.youtube.com/watch?v=fdXEe7VIfZk)
 
 # <a name="hreall"> 3. Human Resources, Employment and Labor Law</a>
-*Four sections in this lecture*
+*Four sections in this chapter*
 
-1. [The Employer/Employee Relationship](#empemp)
-2. [Labor Law and the Rights of the Group
+A. [The Employer/Employee Relationship](#empemp)
+B. [Labor Law and the Rights of the Group
 ](#labor)
-3. [Employment Law and the Rights of the Individual](#emplaw)
-4. [A Note On Employment Ethics](#ethics)
-5. [Addendum](#add)
+C. [Employment Law and the Rights of the Individual](#emplaw)
+D. [A Note On Employment Ethics](#ethics)
+E. [Addendum](#add)
 
-## <a name="empemp">The Employer/Employee Relationship</a>
+## <a name="empemp">A. The Employer/Employee Relationship</a>
 
 ### // Some Context
 Why does understanding human resources and labor law matter? Let's look as some local examples*:
@@ -630,7 +654,7 @@ It is *essential* to understand the basics of these laws and practices if you ho
 
 *PLEASE NOTE: I am only covering **federal laws.** Each state has their own additional set of laws governing labor practices and regulations.*
 
-## <a name="labor">Labor Law and the Rights of the Group</a>
+## <a name="labor">B. Labor Law and the Rights of the Group</a>
 In general, Labor Law references the area of law that governs how a group of employees must be treated and their right to action. Think of a factory, a farm, a museum, the production of a film—all require the efforts of a *group* of employees to succeed.
 
 This is especially important in creative practices regarding the formation of, and and how to work with, labor unions. 
@@ -655,7 +679,7 @@ This is especially important in creative practices regarding the formation of, a
 Established in 1935, this act effectively enshrines the rights of workers to form labor unions (and other types of organizing activities) and collectively bargain to improve working conditions and wages. 
 
 
-## <a name="emplaw">Employment Law and the Rights of the Individual</a>
+## <a name="emplaw">C. Employment Law and the Rights of the Individual</a>
 A complement to Labor Law, we have employment law, which defines the rights of an individual worker *and job applicants.* 
 
 Employment law, generally, deals with the following issues for the individual worker: 
@@ -718,7 +742,7 @@ Here is a good book to keep on your shelf if you have employees:
 
 * [Human Resources for the Non-HR Manager](https://www.goodreads.com/book/show/383219.Human_Resources_for_the_Non_HR_Manager)
 
-## <a name="ethics">A Note On Employment Ethics</a>
+## <a name="ethics">D. A Note On Employment Ethics</a>
 *This portion of the lecture is essentially an op-ed by your instructor. As you create your own collaborations and businesses, I hope you will strongly consider the following ethical suggestions*
 
 ### — Be Open to Criticism to Invite Diverse Opinions
@@ -762,27 +786,6 @@ Deal with problems immediately. If you don't know what to do, seek professional 
 ### — Internships
 Ah... internships. It is my opinion that internships (unless you're receiving course credit) should be paid positions. If you want to volunteer your time and your skills for no pay—my advice is to get as much of an educational experience as possible. But if you're just fetching coffee for the boss and sitting at a front desk twiddling your thumbs—that is a job and you should be paid. 
 
-## <a name="add">// Addendum</a>
-*This addendum includes a question from a student that the instructor had to research and report back to the class.*
-
-> "When employers discourage sharing wages, how does that function legally? I know there’s a degree of cultural stigma to keep in mind around asking people (coworkers or not) about their wages, but is there any factor of that that employers can enforce legally speaking, or any specific legal frameworks that employees or job applicants can use to work around and figure out what employees are actually making?"
-
-In short, the answer is that employees are protected in *most cases* to share their wage and salary information with each other. 
-
-This falls under the category of organizing and collective bargaining protected by the [National Labor Relations Board](https://www.nlrb.gov) under the National Labor Relations Act. I think this article on GovDocs gives the most concise and clear explanation I've found: 
-
-* [Can Employees Discuss Pay and Salaries?](https://www.govdocs.com/can-employees-discuss-pay-salaries/) · GovDocs
- 
-*There are some exceptions and items to note:*
-
-* There are some types of government and organizations that do not fall under the NLRB protections. (The GovDocs article provides an explanation as to why). 
-* You are broadly protected to *freely discuss* salary or wage as part of organizing activity, but you *cannot force* your co-worker to reveal their salary. This would violate their privacy rights and also is just a real jerk move. 
-* Additionally, if you handle payroll or finances for your organization:
-
-	> An employee whose job function involves access to company wage and payroll information may not disclose employee pay information to other employees unless directed to by the employer or an investigating agency. [GovDocs]
-
-So, in most cases, an employer cannot create a company policy prohibiting employees from discussing pay. Importantly, this also applies to discussing **working conditions**—here's an example from the NLRB website: [Protected Concerted Activity. 
-](https://www.nlrb.gov/rights-we-protect/enforcement-activity/protected-concerted-activity)
 
 # <a name="self">4. Self-Employment and Independent Contracting</a>
 
@@ -790,9 +793,9 @@ This is a brief topic. The goal here is to draw a distinction between a traditio
 
 Not understanding this distinction can be one of the primary ways creative practitioners are taken advantage of. 
 
-## EMPLOYEE VS. INDEPENDENT CONTRACTOR
+## A. EMPLOYEE VS. INDEPENDENT CONTRACTOR
 
-### // Let's first define the two:
+### A1. Definitions
 
 **EMPLOYEE** — A person hired to perform duties on an ongoing basis for a entity, whose work conditions and methods are strictly controlled by the principal.
 
@@ -808,7 +811,7 @@ An independent contractor is not (automatically) an agent in their relationship 
 * The key here is “independent”
 * This relationship is governed by the contract between the two parties and standards of contract law.
 
-### // How Do You Tell the Difference?
+### A2. Understanding the Difference
 It's not just whether or not a principal *calls* you an employee or an independent contractor. The relationship has to be defined and follow a set of standards set out in US law. 
 
 The IRS gives us at least these three top-level tests to determined whether someone is an employee or an independent contractor:
@@ -834,4 +837,5 @@ and is the work performed a key aspect of the business?
 	* If yes, then you are likely an **employee**
 	* If no and the relationship or key aspect of business has a *set end date* — you are a **contractor**.
 
+### A3 — Consequences
 
