@@ -5,22 +5,23 @@
 
 As creative practitioners, we all participate in the act of intellectual property creation. Whether that’s for our own personal work, as part of our professional practice, or in service to an employer or client. But what is intellectual property? In this unit we will define the legal definitions of IP, the rights that you have, and IP protections such as patent, copyright, trademark, etc. From there, we will discuss how to share and monetize IP as a method for generating value. We will also explore the ways in which we can change, alter, rip, pirate, destroy, remix and recreate the work of others as a part of our creative process.
 
-**Chapters**
-1. Introduction to Intellectual Property
-1. IP Protections and Artists Rights
-1. Licensing and Royalties
-1. Permissions, Derivatives, and Fair Use
+**Chapters**  
 
-## Chapter One: Introduction to Intellectual Property
+1. Introduction to Intellectual Property  
+1. IP Protections and Artists Rights  
+1. Licensing and Royalties  
+1. Permissions, Derivatives, and Fair Use  
+
+# 1. Introduction to Intellectual Property
 In brief, this chapter is a primer on what constitutes **intellectual property**, what rights you have, and how to use IP laws and regulations to your advantage to protect, create, remix, transform, and share your work.
 
 **_Three topics in this chapter:_**  
 A. Defining Intellectual Property  
 B. The Big Three in IP: Patent, Copyright, Trademark  
-C. Why it's important to understand IP  
+C. Case Studies  
 
-### A. Defining Intellectual Property
-#### — WHAT IS INTELLECTUAL PROPERTY
+## A. Defining Intellectual Property
+### A1 — What is Intellectual Property?
 
 *» From Merriam-Webster*
 > Intellectual Property : property (such as an idea, invention, or process) that
@@ -43,7 +44,7 @@ Much like physical property, IP can be created, owned, traded, destroyed, transf
 
 ...and thus needs it's own set of rules, guidelines, and regulations. IP helps define all of the ideas, processes, and plans closely tied with a piece of property, but that can be separated from the property itself. 
 
-#### — THE ORIGIN OF IP
+### A2 — The Origins of IP
 I'm going to totally pull the laziness card and just play this section of the video essay "Everything is a Remix" by Kirby Ferguson. 
 
 [![everything is a remix](https://github.com/Orthelious/PDCP_Spring2019/blob/master/images/b1_remix.png)](https://youtu.be/nJPERZDfyWc?t=1459)
@@ -52,18 +53,18 @@ I'm going to totally pull the laziness card and just play this section of the vi
 
 
 
-## // The Big Three in IP: Patent, Copyright, Trademark
+## B — The Big Three in IP: Patent, Copyright, Trademark
 There are a number of smaller, specific categories of IP in US law ([like plant species!](https://www.wipo.int/sme/en/documents/upov_plant_variety_fulltext.html)) For the purposes of this course, we're going to discuss the three major categories of IP:
 
 * **Patents** — Protects specific inventions and related processes.
 
-* **Copyrights** — Protects “original works of authorship.”
-
 * **Trademark** — Protects names, phrases and symbols used in commerce.
 
-*We will go over each of these in much greater detail in [B.2]*
+* **Copyrights** — Protects “original works of authorship.”
 
-### — Patents
+*We will go over each of these in much greater detail in chapter 2*
+
+### B1 — Patents
 *» What do they protect?*
 
 * Processes, methods and inventions that are “novel,” “non-obvious,” and
@@ -74,7 +75,18 @@ something recognizable and distinct.
 (object); a new composition (of matter); an asexually and new variety of
 plant.
 
-### — Copyrights
+### B2 — Trademarks
+
+*» What do they protect?*
+
+* Names, phrases, images that represent a product and distinguish it in
+commerce.
+* Includes Trade Dress (visual appearance of a product) and Service Marks
+(Identifies a service as opposed to a product.)
+* Basically, trademarks protect brands.
+
+
+### B3 — Copyrights
 
 *» What do they protect?*
 
@@ -87,17 +99,10 @@ computer programs (sometimes the graphical user interface) and websites.
 * Ideas and concepts **on their own** do not have copyright   
 	*[Why would this be true?]*
 	
-### — Trademarks
 
-*» What do they protect?*
+## C — Case Studies
 
-* Names, phrases, images that represent a product and distinguish it in
-commerce.
-* Includes Trade Dress (visual appearance of a product) and Service Marks
-(Identifies a service as opposed to a product.)
-* Basically, trademarks protect brands.
-
-## // Why it's important to understand IP
+Why is it important to understand IP
 
 ***Your practice will be more successful if you understand:***
 
@@ -207,14 +212,14 @@ commerce.
 * ESG's "UFO" has been sampled for over **500 songs**: [Who Sampled: UFO](https://www.whosampled.com/ESG/?fbclid=IwAR1HTgiLgEaW0D-bfM0tX3c9jv-lcGjisghVXBKbrxxEFIb6yDUQntysiVg)
 * [ESG turned 'accident' into music history · Chicago Tribune](https://www.chicagotribune.com/entertainment/music/ct-ott-esg-interview-0525-story.html)
 
-# [B.2] IP Protections and Artists Rights
+# 2. IP Protections and Artists Rights
 
-*Four sections to this topic*
+*Four sections to this chapter*
 
 1. Patents
 2. Trademarks
 3. Copyrights
-4. The Visual Artists Rights Act
+4. Artists' Rights: The Visual Artists Rights Act
 
 In B.1 we covered the high level basics of the three primary types of IP protections: Patents, Trademarks, and Copyrights. In this lecture we will cover the process of how to obtain each of these protections and delve into what specifically each IP type protects. 
 
